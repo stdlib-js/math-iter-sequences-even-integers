@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterEvenIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-even-integers@esm/index.mjs';
+import iterEvenIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-even-integers@v0.2.3-esm/index.mjs';
 ```
 
 #### iterEvenIntegersSeq( \[options] )
@@ -139,7 +139,7 @@ var bool = it.next().done;
 <body>
 <script type="module">
 
-import iterEvenIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-even-integers@esm/index.mjs';
+import iterEvenIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-even-integers@v0.2.3-esm/index.mjs';
 
 // Create an iterator:
 var opts = {
